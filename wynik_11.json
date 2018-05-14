@@ -1,0 +1,41 @@
+MongoDB shell version v3.6.4
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.4
+"Agregacja"
+{
+	"_id" : "Female",
+	"avgHeight" : 166.81260913705583,
+	"avgWeight" : 70.11331573604062
+}
+{
+	"_id" : "Male",
+	"avgHeight" : 166.73818090046436,
+	"avgWeight" : 70.01222693317182
+}
+"Map-reduce"
+{
+	"result" : "AvgPeopleList",
+	"timeMillis" : 215,
+	"counts" : {
+		"input" : 9878,
+		"emit" : 9878,
+		"reduce" : 198,
+		"output" : 2
+	},
+	"ok" : 1
+}
+{
+	"_id" : "Female",
+	"value" : {
+		"avgWeight" : 70.1133157360407,
+		"avgHeight" : 166.81260913705597
+	}
+}
+{
+	"_id" : "Male",
+	"value" : {
+		"avgWeight" : 70.01222693317186,
+		"avgHeight" : 166.73818090046456
+	}
+}
+bye

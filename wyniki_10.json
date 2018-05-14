@@ -1,0 +1,5 @@
+MongoDB shell version v3.6.4
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.4
+WriteResult({ "nMatched" : 86, "nUpserted" : 0, "nModified" : 86 })
+bye

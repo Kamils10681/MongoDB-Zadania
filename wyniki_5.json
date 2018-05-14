@@ -1,0 +1,145 @@
+MongoDB shell version v3.6.4
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.4
+{
+	"first_name" : "Anthony",
+	"last_name" : "Nichols",
+	"location" : {
+		"city" : "Jepuro"
+	}
+}
+{
+	"first_name" : "Brenda",
+	"last_name" : "Gonzalez",
+	"location" : {
+		"city" : "Glagahan"
+	}
+}
+{
+	"first_name" : "Ernest",
+	"last_name" : "Ortiz",
+	"location" : {
+		"city" : "Zhongcheng"
+	}
+}
+{
+	"first_name" : "Gregory",
+	"last_name" : "Anderson",
+	"location" : {
+		"city" : "Caminaca"
+	}
+}
+{
+	"first_name" : "Ralph",
+	"last_name" : "Austin",
+	"location" : {
+		"city" : "Povorino"
+	}
+}
+{
+	"first_name" : "Paula",
+	"last_name" : "Hunt",
+	"location" : {
+		"city" : "Vsevolozhsk"
+	}
+}
+{
+	"first_name" : "Virginia",
+	"last_name" : "Chapman",
+	"location" : {
+		"city" : "Huangling"
+	}
+}
+{
+	"first_name" : "Steve",
+	"last_name" : "Olson",
+	"location" : {
+		"city" : "Santa Cruz"
+	}
+}
+{
+	"first_name" : "Anthony",
+	"last_name" : "Wood",
+	"location" : {
+		"city" : "Donghe"
+	}
+}
+{
+	"first_name" : "Eugene",
+	"last_name" : "Ford",
+	"location" : {
+		"city" : "Muang Long"
+	}
+}
+{
+	"first_name" : "Nancy",
+	"last_name" : "Fisher",
+	"location" : {
+		"city" : "Leon"
+	}
+}
+{
+	"first_name" : "Deborah",
+	"last_name" : "Moreno",
+	"location" : {
+		"city" : "Cisewu"
+	}
+}
+{
+	"first_name" : "Jacqueline",
+	"last_name" : "Morgan",
+	"location" : {
+		"city" : "Gränna"
+	}
+}
+{
+	"first_name" : "Stephanie",
+	"last_name" : "Porter",
+	"location" : {
+		"city" : "Agen"
+	}
+}
+{
+	"first_name" : "Virginia",
+	"last_name" : "Mills",
+	"location" : {
+		"city" : "Zarzis"
+	}
+}
+{
+	"first_name" : "Jason",
+	"last_name" : "Banks",
+	"location" : {
+		"city" : "Al Fukhkhārī"
+	}
+}
+{
+	"first_name" : "Amy",
+	"last_name" : "Banks",
+	"location" : {
+		"city" : "Strážná"
+	}
+}
+{
+	"first_name" : "Wanda",
+	"last_name" : "Burton",
+	"location" : {
+		"city" : "Liangnong"
+	}
+}
+{
+	"first_name" : "Russell",
+	"last_name" : "Bryant",
+	"location" : {
+		"city" : "Zhengdonglu"
+	}
+}
+{
+	"first_name" : "Patrick",
+	"last_name" : "Moore",
+	"location" : {
+		"city" : "Nong Khai"
+	}
+}
+Type "it" for more
+bye

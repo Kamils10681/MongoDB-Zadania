@@ -1,0 +1,35 @@
+MongoDB shell version v3.6.4
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.4
+WriteResult({ "nInserted" : 1 })
+bye
+
+
+{
+        "_id" : ObjectId("5ae5ad5753e4b1ea0fb550b9"),
+        "sex" : "Male",
+        "first_name" : "Kamil",
+        "last_name" : "Munik",
+        "job" : "IT Specialist",
+        "email" : "kamil.munik@gmail.com",
+        "location" : {
+                "city" : "Grójec",
+                "address" : {
+                        "streetname" : "Polna",
+                        "streetnumber" : "2"
+                }
+        },
+        "description" : "kamil kamil",
+        "height" : "184",
+        "weight" : "82.20",
+        "birth_date" : "1992-07-08",
+        "nationality" : "Poland",
+        "credit" : [
+                {
+                        "type" : "jcb",
+                        "number" : "123456789",
+                        "currency" : "PLN",
+                        "balance" : "40404"
+                }
+        ]
+}
